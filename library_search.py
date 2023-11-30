@@ -10,7 +10,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer, util
 
 def format_result(score, result):
-    return f"{score}; Filepath: {result['filepath']}\n\nText: {result['text']}\n\n"
+    return f"Score {score:.3f}; Filepath: {result['filepath']}\n\nText: {result['text']}\n\n"
 
 if __name__ == "__main__":
     # Languages/type of text present
