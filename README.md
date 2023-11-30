@@ -1,4 +1,4 @@
-# library_management_tool
+# Digital Library Management Tool
 
 ## Overview
 
@@ -61,4 +61,4 @@ The arguments are:
 	
 ## Additional information
 
-None yet
+Currently project only supports PDFs, looking to expand to other formats like EPUB eventually.
