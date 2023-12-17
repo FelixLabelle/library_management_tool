@@ -11,7 +11,8 @@ These scripts enable search functionality through a command-line interface (CLI)
 Before running the scripts, ensure you have the following installed:
 
 - Python 3.10
-- Required Python libraries (specified in `env.yml`)
+- Required Python libraries (specified in `env.yml` or `requirements.txt`)
+- Running Linux or WSL on Windows
 
 ## Installation
 
