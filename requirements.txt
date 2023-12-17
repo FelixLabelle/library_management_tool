@@ -1,0 +1,10 @@
+faiss==1.7.4
+numpy==1.22.4
+pandas==2.1.1
+PyPDF2==1.26.0  # PyPDF2 is a common PyPI package for PDF parsing
+spacy==3.7.2
+tqdm==4.66.1
+torch==2.1.1
+torchaudio==2.1.1
+torchvision==0.16.1
+transformers==4.35.2
